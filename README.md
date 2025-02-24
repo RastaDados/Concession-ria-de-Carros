@@ -4,6 +4,8 @@ Este projeto tem como objetivo a análise de preços de veículos e suas vendas 
 
 <hr>
 
+<h2><a href="https://app.powerbi.com/view?r=eyJrIjoiODA1NjZhOTQtOTkwZi00NzA0LWE4MmQtYThjYTMxMWI3NTFkIiwidCI6IjBjM2IyYzljLWVlYTctNDJlZi04YTYzLTcwOWIyNjU5NzYxOCJ9">Acesse o Dashboard aqui!</h2>
+
 <h2>Entendendo a Base de Dados</h2>
 
 <b>Arquivo:</b> Arquivo simples delimitado por vírgula (car_prices.cs)
